@@ -10,5 +10,6 @@
   	<module>atcrowdfunding04-admin-entity</module>
   	<module>atcrowdfunding05-common-util</module>
   	<module>atcrowdfunding06-common-reverse</module>
+  	<module>atcrowdfunding07-admin-paren</module>
   </modules>
 </project>
